@@ -1,0 +1,2 @@
+# analyze_my_chatgpt
+自分のChatGPTの履歴をExportして、分析させたり過去の情報を取り出したりする
